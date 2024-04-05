@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.form-container {
+    max-width: 709px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: aqua;
+}
+
+.error-message {
+    color: red;
+}
+#iso,#modelName{
+    background-color: #b6e3e7;
+}
+#isro{
+    background-color: #016b1c;
+    color: #ffff;
+}
+#customerName,#mobileNumber{
+    width: 155px;
+}
